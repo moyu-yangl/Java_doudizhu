@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="斗地主">
+    <output-path>$PROJECT_DIR$/out/artifacts/斗地主</output-path>
+    <root id="archive" name="斗地主.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="doudizhu" />
+    </root>
+  </artifact>
+</component>
